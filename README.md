@@ -1,4 +1,4 @@
 northsulawesi
 =============
 
-www.northsulawesi.info
+http://www.northsulawesi.info
