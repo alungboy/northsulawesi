@@ -1,0 +1,4 @@
+git add --all
+git commit -m "pesan yang dirubah"
+git push
+jawab : Yes
